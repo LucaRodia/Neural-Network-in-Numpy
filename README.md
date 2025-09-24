@@ -1,2 +1,4 @@
 # Neural-Network-in-Numpy
-The project aims to build a classification neural network leveraging only numpy.
+The project demonstrate how to build a neural network model for multiclass classification tasks using only Numpy, 
+whitout relying on high level libraries such as PyTorch or TensorFlow. 
+The repository currently contains all the code written so far. It will be better organized and documented in future.
